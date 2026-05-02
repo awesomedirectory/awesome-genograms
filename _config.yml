@@ -1,0 +1,18 @@
+title: Awesome Genograms
+description: "Genogram builders, family-tree visualization libraries, and genealogy software for therapists, social workers, and developers."
+url: "https://awesomedirectory.github.io"
+baseurl: "/awesome-genograms"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+twitter:
+  username: awesomedirectory
+  card: summary
+social:
+  name: Awesome Directory
+  links:
+    - https://github.com/awesomedirectory
+author:
+  name: Awesome Directory
+  url: https://github.com/awesomedirectory
+keywords: "genogram software, awesome list, curated tools, awesome genograms"
