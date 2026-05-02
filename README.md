@@ -48,6 +48,14 @@ This list covers tools ranging from clinical assessment diagrams for social work
 
 ---
 
+## Related Awesome Lists
+
+- [Awesome Founder Stack](https://awesomedirectory.github.io/awesome-founder-stack/) - Tools, services, and resources for startup founders.
+- [Awesome VC Tech Stack](https://awesomedirectory.github.io/Awesome-VC-Tech-Stack/) - Software stack used by venture capital firms.
+- [Awesome Healthcare Recruitment](https://awesomedirectory.github.io/Awesome-Healthcare-Recruitment/) - Tools and platforms for healthcare recruiting.
+- [Awesome Award Travel](https://awesomedirectory.github.io/awesome-award-travel/) - Award flight tools, points trackers, and credit card resources.
+---
+
 ## Contributing
 
 Building a tool for family history or therapy? Add it to the list!
