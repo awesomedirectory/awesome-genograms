@@ -19,6 +19,7 @@ This list covers tools ranging from clinical assessment diagrams for social work
 
 * **[GenogramAI](https://genogramai.com)** - AI-powered genogram creation tool that automates family mapping for therapists and professionals.
 * [Genogram Creator](https://genogramcreator.com) - Native iPad and Mac genogram maker with 100+ clinical symbols, Apple Pencil annotation, and PDF/PNG/SVG export. Works fully offline with no account required, which keeps client family data on-device.
+* [Ecomap Creator](https://ecomapcreator.com) - Native iPad and web ecomap tool using Hartman-standard notation, with energy-flow direction on every connection, 18 system categories, and 9 clinical templates. Exports PDF/PNG/SVG and works offline with on-device encryption.
 * [Canva Genograms](https://www.canva.com/graphs/genograms/) - Simple, drag-and-drop templates for creating basic visual genograms.
 * [Creately](https://creately.com/diagram/genogram-software/) - Collaborative diagramming tool with specific templates for family systems.
 * [Lucidchart](https://www.lucidchart.com) - Professional diagramming software widely used for mapping family relationships.
