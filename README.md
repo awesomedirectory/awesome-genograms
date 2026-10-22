@@ -50,6 +50,11 @@ Free, printable genogram symbol charts, keys and blank templates from GenogramAI
 | ไทย | [ตารางสัญลักษณ์เจโนแกรม](https://genogramai.com/th/pdf/sanyalak-genogram.pdf) | [คำอธิบายสัญลักษณ์เจโนแกรม](https://genogramai.com/th/pdf/kham-athibai-sanyalak-genogram.pdf) | [คู่มือเจโนแกรมฉบับสมบูรณ์](https://genogramai.com/th/pdf/khu-mue-genogram-chabap-sombun.pdf) | [เจโนแกรมคืออะไรและวิธีสร้าง](https://genogramai.com/th/pdf/genogram-khue-arai.pdf) | [แม่แบบเจโนแกรม 3 รุ่นแบบว่าง](https://genogramai.com/th/pdf/maebaep-genogram-3-run.pdf) |
 | Bahasa Indonesia | [Bagan Simbol Genogram](https://genogramai.com/id/pdf/simbol-genogram.pdf) | [Keterangan Genogram](https://genogramai.com/id/pdf/keterangan-genogram.pdf) | [Panduan Lengkap Genogram](https://genogramai.com/id/pdf/panduan-lengkap-genogram.pdf) | [Apa Itu Genogram dan Cara Membuatnya](https://genogramai.com/id/pdf/apa-itu-genogram.pdf) | [Template genogram 3 generasi kosong](https://genogramai.com/id/pdf/template-genogram-3-generasi.pdf) |
 
+For teaching (English):
+
+* [Genogram Symbols Chart (PNG)](https://genogramai.com/images/genogram-symbols-chart.png) - One-page image of standard genogram notation with the meaning of each symbol, with copy-paste embed code and a citation on the [genogram symbols guide](https://genogramai.com/guide/genogram-symbols#cite-symbols-chart).
+* [10 Genogram Examples for Students (PDF)](https://genogramai.com/genogram-examples-for-students.pdf) - Free 12-page classroom handout: ten worked fictional family genograms, from notation basics to a family-of-origin assignment, each with what to look for and a discussion question.
+
 ## Professional & Clinical Tools
 *Heavy-duty software used by social workers, family therapists, and medical geneticists.*
 
