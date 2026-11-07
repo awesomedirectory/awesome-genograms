@@ -78,6 +78,7 @@ For teaching (English):
 * [MyHeritage](https://www.myheritage.com) - Global discovery platform for family history and DNA testing.
 * [GEDmatch](https://www.gedmatch.com) - Tools for DNA and genealogical analysis.
 * [Gramps](https://gramps-project.org) - A free software project and community for genealogy research.
+* [Human Lineage](https://humanlineage.org) - Free public genealogical graph of 50M+ historical people with ancestor trees, fan charts and advanced search, no login required.
 
 ---
 
